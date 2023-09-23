@@ -3,5 +3,10 @@ numpy
 scikit-learn
 scipy
 matplotlib
-plotly-express
+plotly
+seaborn
 nbformat==5.9.2
+boto3
+sagemaker
+ipykernel
+joblib
